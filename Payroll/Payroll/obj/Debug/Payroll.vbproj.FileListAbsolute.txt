@@ -14,3 +14,7 @@ C:\Users\Software Development\documents\visual studio 2015\Projects\Payroll\Payr
 C:\Users\Software Development\documents\visual studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.pdb
 C:\Users\Software Development\documents\visual studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.Migrations.migration1.resources
 C:\Users\Software Development\documents\visual studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+C:\Users\Software Development\Source\Repos\mytest\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Software Development\Source\Repos\mytest\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\Software Development\Source\Repos\mytest\Payroll\Payroll\obj\Debug\Payroll.xml
+C:\Users\Software Development\Source\Repos\mytest\Payroll\Payroll\obj\Debug\Payroll.pdb
